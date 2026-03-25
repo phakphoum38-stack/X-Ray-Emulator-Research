@@ -1,0 +1,5 @@
+def show_menu():
+
+    print("==== X-ray Emulator ====")
+    print("1. Start scan")
+    print("2. Exit")
